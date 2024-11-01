@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Downhill Cash No Win All WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="DownhillCashNoWinAll" enableFreeSpin="N" clientversion="1.0" gameId="300-2196-0" />
+	<GameClient name="Downhill Cash No Win All WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="DownhillCashNoWinAll" enableFreeSpin="N" clientversion="1.0" gameId="300-2196-0" />
+	<GameClient name="Downhill Cash No Win All WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="DownhillCashNoWinAll" enableFreeSpin="N" clientversion="1.0" gameId="300-2196-0" />
+</ClientConfig>
